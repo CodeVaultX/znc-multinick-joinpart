@@ -92,6 +92,6 @@ You can control the module via commands:
 
 ## 📃 License
 
-Licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+Licensed under the [Apache License 2.0](https://github.com/CodeVaultX/znc-multinick-joinpart/blob/main/LICENSE).
 
 ---
